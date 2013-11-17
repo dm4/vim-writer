@@ -15,6 +15,7 @@ if has("gui_running")
     highlight Cursor                guibg=#15abdd
     highlight htmlSpecialChar       guifg=black
     highlight markdownBold          gui=bold guifg=gray25
+    highlight markdownHeadingRule   gui=bold guifg=gray25
     highlight markdownItalic        guifg=gray25 gui=underline
     highlight markdownUrl           guifg=#2fb3a6
     highlight markdownAutomaticLink guifg=#2fb3a6

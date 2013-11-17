@@ -7,6 +7,7 @@ if has("gui_running")
     set foldcolumn=10
     set scrolloff=999
     set guifont=Source\ Code\ Pro\ Light:h20
+    NoMatchParen
     highlight Normal                guibg=gray95
     highlight NonText               guifg=gray95
     highlight FoldColumn            guibg=gray95
